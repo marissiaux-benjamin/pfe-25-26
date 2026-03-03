@@ -1,15 +1,15 @@
-# 🎨 PFE 2025-2026
+# PFE 2025-2026
 ## Plateforme E-commerce pour une Artisane
 
 ---
 
-## 📌 Présentation du projet
+## Présentation du projet
 
 Ce Projet de Fin d'Études consiste en la conception et le développement d’une plateforme e-commerce dédiée à une artisane spécialisée dans :
 
-- 🪟 Vitraux artisanaux
-- 🪨 Galets japonais
-- 💡 Lampes en vitrail
+- Vitraux artisanaux
+- Galets
+- Lampes en vitrail
 
 L’objectif est de créer une plateforme :
 
@@ -33,7 +33,7 @@ Le projet sera développé avec :
 
 ---
 
-# 🎯 Objectifs du projet
+# Objectifs du projet
 
 ## Objectifs fonctionnels
 
@@ -53,7 +53,7 @@ Le projet sera développé avec :
 
 ---
 
-# 👥 Personas (à compléter)
+# Personas (à compléter)
 
 > ⚠️ Cette section sera complétée ultérieurement avec des personas détaillés.
 
@@ -90,7 +90,7 @@ Le projet vise à proposer :
 
 # 🏗️ Architecture fonctionnelle
 
-## 🛍️ Partie Client
+## Partie Client
 
 - Page d’accueil
 - Qui suis-je ?
@@ -100,7 +100,7 @@ Le projet vise à proposer :
 - Paiement
 - Contact
 
-## 🔐 Partie Administration
+## Partie Administration
 
 - Dashboard
 - Gestion des produits
@@ -113,7 +113,7 @@ Le projet vise à proposer :
 
 ---
 
-# 🗃️ Modélisation (à intégrer)
+# Modélisation (à intégrer)
 
 - Diagramme de cas d’utilisation
 - MCD
@@ -123,7 +123,7 @@ Le projet vise à proposer :
 
 ---
 
-# 🔐 Sécurité
+# Sécurité
 
 - Authentification sécurisée
 - Middleware administrateur
@@ -133,9 +133,9 @@ Le projet vise à proposer :
 
 ---
 
-# 🚀 Installation du projet en local
+# Installation du projet en local
 
-## 📋 Prérequis
+## Prérequis
 
 - PHP ≥ 8.x
 - Composer
@@ -145,7 +145,7 @@ Le projet vise à proposer :
 
 ---
 
-## 🔧 Installation
+## Installation
 
 ```bash
 # Cloner le projet
@@ -159,4 +159,5 @@ composer install
 
 # Installer les dépendances JS
 npm install
+
 
